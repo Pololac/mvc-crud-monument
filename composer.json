@@ -22,5 +22,7 @@
             }
     },
 
-    "require": {}
+    "require": {
+        "symfony/dotenv": "^7.1"
+    }
 }
